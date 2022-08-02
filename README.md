@@ -1,3 +1,4 @@
-# DSA
+# Leetcode-Practice
 
-This will contain all the DSA questions that I'll solve
+
+This will contain all the Leetcode-Practice questions that I'll solve
