@@ -5,6 +5,8 @@ using namespace std;
 
 
 // } Driver Code Ends
+
+//TC= O(n log n),
 class Solution
 {
     public:
