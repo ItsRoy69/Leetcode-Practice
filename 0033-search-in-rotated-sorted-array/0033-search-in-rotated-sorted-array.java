@@ -2,9 +2,10 @@ class Solution {
     public int search(int[] arr, int target) {
         int start = 0;
         int end = arr.length - 1;
-        while (start <= end) {
+        
+        for (; start <= end; ) {
             int mid = start + (end - start) / 2;
-            // 4 cases over here
+            
             if (arr[mid] == target) {
                 return mid;
             }
