@@ -1,5 +1,3 @@
-// Runtime: 1 ms, faster than 99.13% of Java online submissions for Intersection of Two Arrays II.
-// Memory Usage: 42.5 MB, less than 92.71% of Java online submissions for Intersection of Two Arrays II.
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
         // Sort both the arrays first...
