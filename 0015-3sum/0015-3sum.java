@@ -14,7 +14,7 @@ class Solution {
             int j = i + 1;
             int k = nums.length - 1;
 
-            for (; j < k;) {
+            while (j < k) {
                 int sum = nums[i] + nums[j] + nums[k];
 
                 if (sum == 0) {
@@ -22,12 +22,18 @@ class Solution {
                     ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
 
                     // Skip duplicate elements for j
-                    for (j++; j < k && nums[j] == nums[j - 1]; j++) {
+                    while (j < k && nums[j] == nums[j + 1]) {
+                        j++;
                     }
 
                     // Skip duplicate elements for k
-                    for (k--; j < k && nums[k] == nums[k + 1]; k--) {
+                    while (j < k && nums[k] == nums[k - 1]) {
+                        k--;
                     }
+
+                    // Move the pointers
+                    j++;
+                    k--;
                 } else if (sum < 0) {
                     // Sum is less than zero, increment j to increase the sum
                     j++;
