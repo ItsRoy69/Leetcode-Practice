@@ -2,25 +2,26 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Solution {
-    public List<Integer> findDisappearedNumbers(int[] arr) {
+    public List<Integer> findDisappearedNumbers(int[] nums)  {
         int i = 0;
-        while (i < arr.length) {
-            int correct = arr[i] - 1;  // Correct index for the element
-            if (arr[i] != arr[correct]) {
-                swap(arr, i, correct);
+        while (i < nums.length) {
+            int correct = nums[i] - 1;
+            if (nums[i] != nums[correct]) {
+                swap(nums, i , correct);
             } else {
                 i++;
             }
         }
 
-        List<Integer> result = new ArrayList<>();
-        for (int index = 0; index < arr.length; index++) {
-            if (arr[index] != index + 1) {
-                result.add(index + 1);  // Missing numbers are 1-indexed
+        // just find missing numbers
+        List<Integer> ans = new ArrayList<>();
+        for (int index = 0; index < nums.length; index++) {
+            if (nums[index] != index+1) {
+                ans.add(index + 1);
             }
         }
 
-        return result;
+        return ans;
     }
 
     private void swap(int[] arr, int i, int j) {
