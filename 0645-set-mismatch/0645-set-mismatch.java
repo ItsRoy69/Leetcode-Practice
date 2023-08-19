@@ -1,27 +1,25 @@
 class Solution {
     public int[] findErrorNums(int[] arr) {
-        int i = 0;
-        while (i < arr.length) {
-            int correct = arr[i] - 1;
-            if (arr[i] != arr[correct]) {
-                swap(arr, i , correct);
-            } else {
-                i++;
+        int[] result = new int[2];
+        for (int i = 0; i < arr.length; i++) {
+            while (arr[i] != arr[arr[i] - 1]) {
+                swap(arr, i, arr[i] - 1);
             }
         }
 
-        // search for first missing number
-        for (int index = 0; index < arr.length; index++) {
-            if (arr[index] != index + 1) {
-                return new int[] {arr[index], index+1};
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] != i + 1) {
+                result[0] = arr[i];
+                result[1] = i + 1;
+                break;
             }
         }
-        return new int[] {-1, -1};
+        return result;
     }
 
-    static void swap(int[] arr, int first, int second) {
-        int temp = arr[first];
-        arr[first] = arr[second];
-        arr[second] = temp;
+    static void swap(int[] arr, int i, int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 }
