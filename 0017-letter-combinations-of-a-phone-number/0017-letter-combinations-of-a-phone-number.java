@@ -1,46 +1,44 @@
 class Solution {
-    public List<String> letterCombinations(String up) {
-        return rec("" , up);
-    }
-    static  List<String> rec(String pro , String up){
-        if(up.isEmpty()){
-            List<String> list = new ArrayList<>();
-            if(!pro.isEmpty()){
-            list.add(pro);
-            return list;
-            }
-            else{
-                return list;
-            }
-        }
+    public List<String> letterCombinations(String digits) {
+        
+      ArrayList <String> ans = new ArrayList<>();	
+					if(digits==null || digits.length()==0){
+						return new ArrayList<>();
+					}
 
-        int dig = up.charAt(0) - '0';
+		        
+					else { ans = PhonePad("",digits);
+		          return ans;}
 
-        List<String> list = new ArrayList<>();
-        if(dig>=2 && dig<=6) {
-            for (int i = (dig - 2) * 3; i < (dig-1) * 3; i++) {
-                char ch = (char) ('a' + i);
-               list.addAll(rec(pro + ch, up.substring(1)));
-            }
-        }
-        if(dig==7){
-            for(int i = (dig-2)*3 ; i<=(dig-1)*3 ; i++){
-                char ch = (char)('a' + i);
-                list.addAll(rec(pro + ch, up.substring(1)));
-            }
-        }
-        if(dig==8){
-            for(int i = ((dig-2)*3)+1 ; i<=(dig-1)*3 ; i++){
-                char ch = (char)('a' + i);
-                list.addAll(rec(pro + ch, up.substring(1)));
-            }
-        }
-        if(dig==9){
-            for(int i = ((dig-2)*3)+1 ; i<=((dig-1)*3)+1 ; i++){
-                char ch = (char)('a' + i);
-                list.addAll(rec(pro + ch, up.substring(1)));
-            }
-        }
-        return list;
     }
+
+    static String mapping(int Digit) {
+		String Alpha[] = { "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs","tuv","wxyz" };
+
+		String code = Alpha[Digit];
+		  
+
+		return code;
+
+	}
+
+    static ArrayList<String> PhonePad(String p , String up) {
+		   
+		  if(up.isEmpty()) {
+			  ArrayList <String> List = new ArrayList<>();	
+			List.add(p);
+			return List;
+		  }
+		  
+		  
+		  ArrayList <String> list = new ArrayList<>();
+		  int digit = up.charAt(0) - '0';
+		  String code = mapping(digit);
+		  for(char letter : code.toCharArray() ) {
+			  char ch =  letter;
+			 list.addAll(PhonePad(p+ch, up.substring(1)));
+	
+		  }
+		  return list;
+	  }
 }
