@@ -3,7 +3,7 @@ class Solution {
         long finalNum = 0;
         for (; x != 0; x = x / 10) {
             int lastDig = x % 10;
-            finalNum += lastDig;
+            finalNum += lastDig;                     
             finalNum = finalNum * 10;
         }
         finalNum = finalNum / 10;
