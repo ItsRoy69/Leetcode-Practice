@@ -9,6 +9,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -38,6 +39,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -51,4 +53,8 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
