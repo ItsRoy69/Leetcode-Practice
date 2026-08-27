@@ -9,6 +9,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -16,6 +17,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +26,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -32,10 +35,12 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,13 +67,19 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
