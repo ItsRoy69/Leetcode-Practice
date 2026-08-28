@@ -54,6 +54,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
