@@ -99,4 +99,8 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
