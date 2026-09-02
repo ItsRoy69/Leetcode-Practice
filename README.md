@@ -116,4 +116,8 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
