@@ -17,6 +17,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
