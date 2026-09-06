@@ -72,6 +72,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [0012-integer-to-roman](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0115-distinct-subsequences](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
@@ -131,4 +132,8 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0175-combine-two-tables) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
