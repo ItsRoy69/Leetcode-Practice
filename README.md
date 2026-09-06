@@ -32,6 +32,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [1563-stone-game-v](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -69,6 +70,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0012-integer-to-roman) |
+| [0115-distinct-subsequences](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
