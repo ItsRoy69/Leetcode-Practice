@@ -13,6 +13,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -65,6 +66,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | ------- |
 | [0012-integer-to-roman](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -106,6 +108,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Nim Game
@@ -152,4 +155,8 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
