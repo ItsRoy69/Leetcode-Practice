@@ -8,6 +8,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [1563-stone-game-v](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
@@ -134,6 +135,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
