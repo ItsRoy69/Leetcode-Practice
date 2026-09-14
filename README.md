@@ -8,6 +8,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0018-4sum) |
 | [0835-image-overlap](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [1563-stone-game-v](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
@@ -95,6 +96,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0018-4sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
@@ -120,6 +122,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0018-4sum) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
