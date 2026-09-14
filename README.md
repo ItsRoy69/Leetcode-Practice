@@ -26,6 +26,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0012-integer-to-roman) |
+| [0836-rectangle-overlap](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
@@ -161,4 +162,8 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
