@@ -29,6 +29,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [0012-integer-to-roman](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0836-rectangle-overlap](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3870-count-commas-in-range](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3870-count-commas-in-range) |
@@ -41,6 +42,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [0115-distinct-subsequences](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -50,6 +52,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3904-smallest-stable-index-ii) |
@@ -169,4 +172,8 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
