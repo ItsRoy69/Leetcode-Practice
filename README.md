@@ -12,6 +12,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [0835-image-overlap](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -61,6 +62,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3904-smallest-stable-index-ii) |
@@ -80,6 +82,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | ------- |
 | [0012-integer-to-roman](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -101,6 +104,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Bit Manipulation
 |  |
@@ -194,5 +198,6 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
