@@ -83,6 +83,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0012-integer-to-roman) |
+| [1096-brace-expansion-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -98,6 +99,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [0012-integer-to-roman](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0115-distinct-subsequences](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -119,6 +121,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0018-4sum) |
+| [1096-brace-expansion-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -160,6 +163,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -206,4 +210,12 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
