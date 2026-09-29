@@ -16,6 +16,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -54,6 +55,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [1563-stone-game-v](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
@@ -174,6 +176,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0835-image-overlap) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
@@ -230,4 +233,5 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
