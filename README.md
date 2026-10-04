@@ -53,6 +53,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | ------- |
 | [0022-generate-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1563-stone-game-v) |
@@ -107,6 +108,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | [0020-valid-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -143,6 +145,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -234,6 +237,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -243,6 +247,7 @@ This will contain all the Leetcode-Practice questions that I'll solve to ace the
 | ------- |
 | [0020-valid-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ItsRoy69/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
